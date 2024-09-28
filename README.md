@@ -1,9 +1,11 @@
 <h1 align="center">Hi 👋, I'm Ankit Sharma</h1> 
 <h3 align="center">As a motivated B. Tech student at Marwadi University, I possess advanced proficiency in a diverse range of technologies, including React, MongoDB, Node.js, Express.js, Java, C, SQL, HTML, CSS, and JavaScript. With a results-oriented approach, I specialize in crafting innovative and efficient solutions.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ankitsharma38&label=Profile%20views&color=0e75b6&style=flat" alt="ankitsharma38" /> </p>
+
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ankitsharma38" alt="ankitsharma38" /></a> </p>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ankitsharma38&label=Profile%20views&color=0e75b6&style=flat" alt="ankitsharma38" /> </p>
 
 - 🔭 I’m currently working on [Book_Store_MERN_Project](https://github.com/ankitsharma38/Book_Store_MERN_Project)
 
