@@ -2,7 +2,7 @@
 <h3 align="center">
 Innovative B. Tech student, specialization of full-stack development. Well aware
 of MERN stack, python, TensorFlow, and SQL in delivering scalable, user-centric solutions. Passionate
-towards using AI to solve problems in the real world with continuous learning and innovation, technologydriven
+towards using AI to solve problems in the real world with continuous learning and innovation, technology driven.
 </h3>
 
 <p align="left">
