@@ -25,6 +25,15 @@ towards using AI to solve problems in the real world with continuous learning an
 - You can explore all my projects [**here**](https://github.com/ankitsharma38).
 
 ---
+### 🚀 Live Projects
+
+Here are some of my live projects:
+
+- [**My-Portfolio**](https://ankit-sharma-a829819.netlify.app/)  
+- [**Hotel-Booking**](https://rudraxhotel.netlify.app/)  
+- [**Shoes-Stride**](https://shoesstride.netlify.app/)
+
+---
 
 ### 📫 Get in Touch
 - **Email**: [ankitsharma7805@gmail.com](mailto:ankitsharma7805@gmail.com)
