@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ankit Sharma</h1> 
+<h1 align="center">Hi, I'm Ankit Sharma</h1> 
 <h3 align="center">
 Innovative B. Tech student, specialization of full-stack development. Well aware
 of MERN stack, python, TensorFlow, and SQL in delivering scalable, user-centric solutions. Passionate
