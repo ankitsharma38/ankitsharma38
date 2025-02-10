@@ -1,11 +1,6 @@
 <h1 align="center"> Hi!!<img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" height="40"width="40" />I'm <a href="https://www.linkedin.com/in/neerugangarh/" target="_blank">Ankit Sharma</h1>
   
-  <h3 align="center">
-Innovative B. Tech student, specialization of full-stack development. Well aware
-of MERN stack, python, TensorFlow, and SQL in delivering scalable, user-centric solutions. Passionate
-towards using AI to solve problems in the real world with continuous learning and innovation, technology driven.
-</h3>
-
+ 
 <div align="center">
     
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=23&duration=3000&pause=500&color=FDFEFE&background=2A2E3425&center=true&vCenter=true&&lines=Welcome+to+my+Github+profile!;Passionate+about+Coding!)](https://git.io/typing-svg)
@@ -35,6 +30,38 @@ towards using AI to solve problems in the real world with continuous learning an
 
 <!--line-->
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
+
+<div align="center">
+<h2 align="center"> 💻 About Me </h2>
+
+
+</div>
+
+<details>
+  <summary>🚀 Open Source Contributions</summary>
+  - **GirlScript Summer of Code 2024**
+</details>
+
+<details>
+  <summary>🎓 Achievements</summary>
+	
+  - **AI Intern INDIAN ARMY 2024**
+  - 🏆 **HALF HACKATHON 2025 🥇**
+    
+</details>
+
+<details>
+  <summary>🧑‍💻 My Coding Journey</summary>
+	
+  - **MERN STACK**  & AI/ML
+    
+</details>
+
+<details>
+  <summary>🌍 Outside Tech</summary>
+  - I enjoy reading quotes, capturing nature, and spending time with friends.
+</details>
+
 
 <!--Languages & tools-->
 <h2 align="center"><img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 30px height="38"> Languages, Tools and Technologies </h2>
