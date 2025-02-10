@@ -6,15 +6,6 @@ of MERN stack, python, TensorFlow, and SQL in delivering scalable, user-centric 
 towards using AI to solve problems in the real world with continuous learning and innovation, technology driven.
 </h3>
 
-### 🔭 Current Projects
-- [**Book Store MERN Project**](https://github.com/ankitsharma38/Book_Store_MERN_Project)
-
----
-
-### 🌱 Currently Learning
-- **Figma** for modern UI/UX design.
-
----
 ### 🚀 Live Projects
 
 Here are some of my live projects:
@@ -23,14 +14,13 @@ Here are some of my live projects:
 - [**Hotel-Booking**](https://rudraxhotel.netlify.app/)  
 - [**Shoes-Stride**](https://shoesstride.netlify.app/)
 
----
-
 <h2 align="center">Connect with me<img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="60px" height="35"></h2>
 
 <p align="center">
     Hello, fellow coder!🖐️ Welcome to my GitHub profile! Feel free to reach out to me on the following platforms: <br> <br>
 <a href="https://linkedin.com/in/ankit-sharma-08b37a26a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ankitsharma" height="40" width="50" /></a>
 <h4 align="center"> 📩 Get in touch: <a href="mailto:ankitsharma7805@gmail.com">ankitsharma7805@gmail.com</a> </h4>
+  
 <!--view count-->
 <p align="center"> <img width="200px" src="https://komarev.com/ghpvc/?username=ankitsharma38&&style=for-the-badge" /> </p>
 
