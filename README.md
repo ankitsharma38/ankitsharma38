@@ -21,9 +21,11 @@ towards using AI to solve problems in the real world with continuous learning an
 <p align="center">
     Hello, fellow coder!🖐️ Welcome to my GitHub profile! Feel free to reach out to me on the following platforms: <br> <br>
 <a href="https://linkedin.com/in/ankit-sharma-08b37a26a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ankitsharma" height="40" width="50" /></a>
-<a href="https://discord.com/in/ankit_sharma_02" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Discord" height="40" width="50" />
+<a href="https://discord.com/" target="blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="ankit_sharma_02" height="40" width="50" />
 </a>
+<span> ankit_sharma_02 </span>
+
 
   
 <h4 align="center"> 📩 Get in touch: <a href="mailto:ankitsharma7805@gmail.com">ankitsharma7805@gmail.com</a> </h4>
