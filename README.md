@@ -7,8 +7,8 @@ towards using AI to solve problems in the real world with continuous learning an
 </h3>
 
 <div align="center">
-  [![Typing SVG](https://readme-typing-svg.demolab.com?      
-font=Fira+Code&weight=900&size=23&duration=3000&pause=500&color=FDFEFE&background=2A2E3425&center=true&vCenter=true&&lines=Welcome+to+my+Github+profile!;Passionate+about+Coding!)  ](https://git.io/typing-svg)
+    
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=23&duration=3000&pause=500&color=FDFEFE&background=2A2E3425&center=true&vCenter=true&&lines=Welcome+to+my+Github+profile!;Passionate+about+Coding!)](https://git.io/typing-svg)
 
 </div>
 
