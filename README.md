@@ -42,6 +42,7 @@ Here are some of my live projects:
 ---
 
 ### 🛠️ Languages and Tools
+<h2 align="center"><img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 30px height="38"> Languages, Tools and Technologies </h2>
 <p align="left"> 
   <!-- Programming Languages -->
 <p align="left">
@@ -63,3 +64,10 @@ Here are some of my live projects:
   <a href="#"><img alt="Canva" src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white"></a>
   <a href="#"><img alt="Figma" src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white"></a>
 </p>
+
+
+<div align="center"> 
+    <h1> 
+        <img src="https://readme-typing-svg.herokuapp.com?font=Jetbrains+mono&size=25&duration=3200&color=4FC3F7&center=true&vCenter=true&width=450&lines=Keep+Learning+and+Exploring!;Let's+code+together!" alt="Typing SVG"/> 
+    </h1>
+</div>
