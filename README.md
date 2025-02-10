@@ -35,10 +35,6 @@ Here are some of my live projects:
 <p align="center">
     Hello, fellow coder!🖐️ Welcome to my GitHub profile! Feel free to reach out to me on the following platforms: <br> <br>
 <a href="https://linkedin.com/in/ankit-sharma-08b37a26a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ankitsharma" height="40" width="50" /></a>
-<a href="#" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="YT PODCAST" height="40" width="50"/></a>
-
-<a href="#" target="blank"><img align="center" src="https://cdn.iconscout.com/icon/free/png-512/leetcode-3628885-3030025.png" alt="leetcode" height="40" width="50" /></a>
-</p>
 <h4 align="center"> 📩 Get in touch: <a href="mailto:ankitsharma7805@gmail.com">ankitsharma7805@gmail.com</a> </h4>
 <!--view count-->
 <p align="center"> <img width="200px" src="https://komarev.com/ghpvc/?username=ankitsharma38&&style=for-the-badge" /> </p>
@@ -46,14 +42,6 @@ Here are some of my live projects:
 <!--line-->
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
-
-
-
-
-- **Email**: [ankitsharma7805@gmail.com](mailto:ankitsharma7805@gmail.com)
-- **LinkedIn**: [Ankit Sharma](https://linkedin.com/in/ankit-sharma-08b37a26a)
-
----
 <!--Languages & tools-->
 <h2 align="center"><img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 30px height="38"> Languages, Tools and Technologies </h2>
 <p align="left">
