@@ -1,15 +1,10 @@
-<h1 align="center">Hi, I'm Ankit Sharma</h1> 
-<h3 align="center">
+<h1 align="center"> Hi!!<img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" height="40"width="40" />I'm <a href="https://www.linkedin.com/in/neerugangarh/" target="_blank">Ankit Sharma</h1>
+  
+  <h3 align="center">
 Innovative B. Tech student, specialization of full-stack development. Well aware
 of MERN stack, python, TensorFlow, and SQL in delivering scalable, user-centric solutions. Passionate
 towards using AI to solve problems in the real world with continuous learning and innovation, technology driven.
 </h3>
-
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=ankitsharma38&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
-</p>
-
----
 
 ### 🔭 Current Projects
 - [**Book Store MERN Project**](https://github.com/ankitsharma38/Book_Store_MERN_Project)
