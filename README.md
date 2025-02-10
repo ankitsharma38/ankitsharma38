@@ -39,6 +39,7 @@
 
 <details>
   <summary>🚀 Open Source Contributions</summary>
+	
   - **GirlScript Summer of Code 2024**
 </details>
 
