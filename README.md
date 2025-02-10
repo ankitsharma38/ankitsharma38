@@ -6,14 +6,14 @@ of MERN stack, python, TensorFlow, and SQL in delivering scalable, user-centric 
 towards using AI to solve problems in the real world with continuous learning and innovation, technology driven.
 </h3>
 
-### 🚀 Live Projects
+<div align="center">
+  [![Typing SVG](https://readme-typing-svg.demolab.com?      
+font=Fira+Code&weight=900&size=23&duration=3000&pause=500&color=FDFEFE&background=2A2E3425&center=true&vCenter=true&&lines=Welcome+to+my+Github+profile!;Passionate+about+Coding!)  ](https://git.io/typing-svg)
 
-Here are some of my live projects:
+</div>
 
-- [**My-Portfolio**](https://ankit-sharma-a829819.netlify.app/)  
-- [**Hotel-Booking**](https://rudraxhotel.netlify.app/)  
-- [**Shoes-Stride**](https://shoesstride.netlify.app/)
 
+<!--Contact us-->
 <h2 align="center">Connect with me<img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="60px" height="35"></h2>
 
 <p align="center">
