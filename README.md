@@ -29,37 +29,28 @@
 
 <div align="center">
 <h2 align="center"> 💻 About Me </h2>
-
-
 </div>
 
-<details>
-  <summary>🚀 Open Source Contributions</summary>
-	
-  - **GirlScript Summer of Code 2024**
-</details>
+<h3>🚀 Open Source Contributions</h3>
+<ul>
+  <li><strong>GirlScript Summer of Code 2024</strong></li>
+</ul>
 
-<details>
-  <summary>🎓 Achievements</summary>
-	
-  - **AI Intern INDIAN ARMY 2024**
-  - 🏆 **HALF HACKATHON 2025 🥇**
-    
-</details>
+<h3>🎓 Achievements</h3>
+<ul>
+  <li><strong>AI Intern INDIAN ARMY 2024</strong></li>
+  <li>🏆 <strong>HALF HACKATHON 2025 🥇</strong></li>
+</ul>
 
-<details>
-  <summary>🧑‍💻 My Coding Journey</summary>
-	
-  - **MERN STACK**  & AI/ML
-    
-</details>
+<h3>🧑‍💻 My Coding Journey</h3>
+<ul>
+  <li><strong>MERN STACK</strong> & AI/ML</li>
+</ul>
 
-<details>
-  <summary>🌍 Outside Tech</summary>
-	
-  - I enjoy reading quotes, capturing nature, and spending time with friends.
-</details>
-
+<h3>🌍 Outside Tech</h3>
+<ul>
+  <li>I enjoy reading quotes, capturing nature, and spending time with friends.</li>
+</ul>
 
 <!--Languages & tools-->
 <h2 align="center"><img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 30px height="38"> Languages, Tools and Technologies </h2>
