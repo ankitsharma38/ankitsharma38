@@ -10,30 +10,19 @@
 </div>
 
 <!--Contact us-->
-<h2 align="center">Connect with me<img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="60px" height="35"></h2>
+<h2 align="center">Connect with me<img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="60px" height="35"></h2>       
 
 <p align="center">
     Hello, fellow coder!🖐️ Welcome to my GitHub profile! Feel free to reach out to me on the following platforms: <br> <br>
-    <a href="https://linkedin.com/in/ankit-sharma-08b37a26a" target="blank">
-      <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="40" width="50" />
-    </a>
-    <a href="https://discord.com/" target="blank">
-      <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Discord" height="40" width="50" />
-    </a>
-    <a href="https://twitter.com/yourusername" target="blank">
-      <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter-alt.svg" alt="Twitter" height="40" width="50" />
-    </a>
-    <a href="https://www.youtube.com/c/yourchannel" target="blank">
-      <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="YouTube" height="40" width="50" />
-    </a>
-    <a href="mailto:your-email@gmail.com" target="blank">
-      <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="Gmail" height="40" width="50" />
-    </a>
-    <a href="https://www.instagram.com/yourusername/" target="blank">
-      <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram-alt.svg" alt="Instagram" height="40" width="50" />
-    </a>
-</p>
-  
+<a href="https://www.linkedin.com/in/ankit-sharma-08b37a26a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ankitsharma" height="40" width="50" /></a>
+	
+<a href="https://youtu.be/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="Exploring" height="40" width="50"/></a>
+
+
+
+<a href="https://leetcode.com/u/" target="blank"><img align="center" src="https://cdn.iconscout.com/icon/free/png-512/leetcode-3628885-3030025.png" alt="leetcode" height="40" width="50" /></a>
+</p>  
+
 <h4 align="center"> 📩 Get in touch: <a href="mailto:ankitsharma7805@gmail.com">ankitsharma7805@gmail.com</a> </h4>
   
 <!--view count-->
