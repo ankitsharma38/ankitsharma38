@@ -10,7 +10,7 @@
 </div>
 
 
-<!--Contact uss-->
+<!--Contact us-->
 <h2 align="center">Connect with me<img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="60px" height="35"></h2>       
 
 <p align="center">
@@ -25,7 +25,7 @@
 <!--view count-->
 <p align="center"> <img width="200px" src="https://komarev.com/ghpvc/?username=ankitsharma38&&style=for-the-badge" /> </p>
 
-<!--line-->
+<!--linee-->
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
 <div align="center">
