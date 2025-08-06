@@ -22,7 +22,7 @@
 
 <h4 align="center"> 📩 Get in touch: <a href="mailto:ankitsharma7805@gmail.com">ankitsharma7805@gmail.com</a> </h4>
   
-<!--view count-->
+<!--view counts-->
 <p align="center"> <img width="200px" src="https://komarev.com/ghpvc/?username=ankitsharma38&&style=for-the-badge" /> </p>
 
 <!--linee-->
