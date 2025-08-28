@@ -93,7 +93,7 @@ Here are some of my top projects (more on my pinned repos):
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=ankitsharma38&theme=dark" alt="GitHub Streak" />
+  <img src="https://nirzak-streak-stats.vercel.app/?user=ankitsharma38&theme=dark&hide_border=false" alt="GitHub Streak" />
 </p>
 ---
 
