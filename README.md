@@ -93,12 +93,13 @@ Here are some of my top projects (more on my pinned repos):
 
 ## 📊 GitHub Stats
 <p align="center">
+    [![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1)](https://git.io/streak-stats)
   <img src="https://streak-stats.demolab.com?user=ankitsharma38&theme=radical" alt="GitHub Streak" />
 </p>
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ankitsharma38&theme=radical" alt="GitHub Streak" />
 </p>
-
+[![GitHub Streak](https://streak-stats.demolab.com?user=ankitsharma38&theme=dark&hide_border=true)](https://git.io/streak-stats)
 ---
 
 
