@@ -95,8 +95,7 @@ Here are some of my top projects (more on my pinned repos):
 <p align="center">
   <img src="https://nirzak-streak-stats.vercel.app/?user=ankitsharma38&theme=dark&hide_border=false" alt="GitHub Streak" />
 </p>
+
 ---
-
-
 
 <h3 align="center">✨ Keep Learning & Keep Building ✨</h3>
