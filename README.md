@@ -33,23 +33,6 @@
 
 ---
 
-## 📌 Featured Projects
-Here are some of my top projects (more on my pinned repos):
-
-- 🔍 [*Smart Attendance System*](https://github.com/ankitsharma38/Smart-Attendance-System-Using-Face_Recognition)  
-  AI-powered face recognition-based attendance system (Python, OpenCV, ML)  
-
-- 📹 [*AI Video Surveillance*](https://github.com/ankitsharma38/AI-Power-Video-Surveillance-System)  
-  YOLOv8 based live video surveillance & weapon detection system  
-
-- 🛒 [*Book Store MERN App*](https://github.com/ankitsharma38/Book_Store_MERN_Project)  
-  Full-stack e-commerce platform (React, Node.js, MongoDB, Express.js)  
-
-- 🎭 [*RudraX DeepFake Detection*](https://github.com/ankitsharma38/RudraX-DeepFake-Detection)  
-  Deep learning model for detecting deepfake content  
-
----
-
 ## 🌱 Open Source Contributions
 - 👩‍💻 [*GirlScript Summer of Code 2024*](https://gssoc.girlscript.tech/) – Contributed to multiple projects  
 - 🔧 Pull Requests to community projects (working towards contributing to *WordPress / React* ecosystem)  
