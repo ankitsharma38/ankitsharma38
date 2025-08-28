@@ -91,7 +91,14 @@ Here are some of my top projects (more on my pinned repos):
   <a href="mailto:ankitsharma7805@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
+  <a href="https://stackoverflow.com/users/30430422/ankit-sharma" target="_blank">
+    <img src="https://img.shields.io/badge/Stack%20Overflow-F48024?style=for-the-badge&logo=stackoverflow&logoColor=white" />
+  </a>
+  <a href="https://x.com/ankitsharma_38" target="_blank">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" />
+  </a>
 </p>
+
 
 ---
 
