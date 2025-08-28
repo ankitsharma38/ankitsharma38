@@ -25,7 +25,7 @@
 
 ---
 ## 🚀 About Me
-- 🎓 Final-year engineering student, passionate about *MERN stack development & AI/ML*  
+- 🎓 Final-year engineering student.  
 - 💼 *AI Intern @ Indian Army (2024)*  
 - 🏆 Winner of *HALF Hackathon 2025 (🥇 1st Place)*  
 - 🌱 Active *open-source contributor* (GSSoC 2024)  
