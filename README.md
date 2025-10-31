@@ -24,7 +24,7 @@
 
 
 ---
-## 🚀 About Me
+## 🚀 About Mee
 - 🎓 Final-year engineering student.  
 - 💼 *AI Intern @ Indian Army (2024)*  
 - 🏆 Winner of *HALF Hackathon 2025 (🥇 1st Place)*  
