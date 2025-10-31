@@ -6,7 +6,7 @@
 
 ---
 
-## 📬 Connect with Mee
+## 📬 Connect with Me
 <p align="center">
   <a href="https://www.linkedin.com/in/ankit-sharma-08b37a26a" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -24,7 +24,7 @@
 
 
 ---
-## 🚀 About Mee
+## 🚀 About Me
 - 🎓 Final-year engineering student.  
 - 💼 *AI Intern @ Indian Army (2024)*  
 - 🏆 Winner of *HALF Hackathon 2025 (🥇 1st Place)*  
