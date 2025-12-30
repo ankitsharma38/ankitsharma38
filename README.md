@@ -6,7 +6,7 @@
 
 ---
 
-## 📬 Connect with Mee
+## 📬 Connect with Me
 
 <p align="center">
   <a href="https://www.linkedin.com/in/ankit-sharma-08b37a26a" target="_blank">
