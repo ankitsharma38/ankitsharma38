@@ -41,7 +41,7 @@
 ---
 
 ## 🏆 Achievements
-- 🥇 *HALF Hackathon 2025* – 1st Place  
+- 🥇 *3X Hackathon Winner*   
 - 🤖 *AI Intern – Indian Army (2024)*  
 - 👩‍💻 Contributor – *GSSoC 2024*  
 
