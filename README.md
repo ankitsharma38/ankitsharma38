@@ -28,7 +28,7 @@
 ## 🚀 About Me
 - 🎓 Final-year engineering student.  
 - 💼 *AI Intern @ Indian Army (2024)*  
-- 🏆 3x Hackathon Winner*  
+- 🏆 3x Hackathon Winner  
 - 🌱 Active *open-source contributor* (GSSoC 2024)  
 - 📸 Outside tech: I enjoy photography, reading quotes, and spending time with friends  
 
